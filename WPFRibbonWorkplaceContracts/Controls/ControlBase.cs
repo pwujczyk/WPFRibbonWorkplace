@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPFRibbonWorkplace
+namespace WPFRibbonWorkplaceContracts.Controls
 {
-    interface IPluginMainWindow
+    public abstract class ControlBase
     {
     }
 }
